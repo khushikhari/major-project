@@ -280,7 +280,7 @@ st.markdown("<hr class='footer'>", unsafe_allow_html=True)
 
 # About Us
 st.markdown("<h3>About Us</h3>", unsafe_allow_html=True)
-st.write(" MedVision Pro is a collective project by <br>SOUMYA SHUBHAM <br> ZAINAB <br>KHUSHI KHARI<br>AARUSH SACHDEVA",unsafe_allow_html=True)
+st.write(" MedVision Pro is a  project made by Soumya Shubham",unsafe_allow_html=True)
 
 # More Info abou this Project
 st.markdown("[More Info about this Project](www.google.com)", unsafe_allow_html=True)
