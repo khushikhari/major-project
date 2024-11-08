@@ -280,7 +280,7 @@ st.markdown("<hr class='footer'>", unsafe_allow_html=True)
 
 # About Us
 st.markdown("<h3>About Us</h3>", unsafe_allow_html=True)
-st.write(" MedVision Pro is a project made by Soumya Shubham",unsafe_allow_html=True)
+st.write(" MedVision Pro is a project made by Zainab Asif, Khushi Khari, Soumya Shubham and Aarush Sachdeva",unsafe_allow_html=True)
 
 
 # End of footer
